@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N° 128 DE 14 DE MAIO DE 2018 "Dispõe sobre a criação e extinção de cargos, no Quadro de Pessoal da Câmara Municipal de Cáceres e dá outras providências".
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO:no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, In-ciso VII, faço saber que a Câmara Municipal de Cáceres aprovou, nos ter-mos dos artigos 22, 25, inciso XXV, e 89, parágrafo único, dispositivos to-dos da Lei Orgânica do Município, e eu sanciono, a seguinte Lei Comple-mentar:
