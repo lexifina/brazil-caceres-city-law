@@ -1,0 +1,2 @@
+# LEI Nº 2.725 DE 27 DE FEVEREIRO DE 2019 "Autoriza o Poder Executivo a firmar acordo de parcelamento com a Receita Federal do Brasil e dá outras providências."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei.
