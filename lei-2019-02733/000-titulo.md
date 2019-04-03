@@ -1,0 +1,2 @@
+# LEI Nº 2.733 DE 29 DE MARÇO DE 2019 "Dispõe sobre a alteração da Lei nº 1.250 de 05 de maio de 1994, que instituiu o Conselho Municipal de Turismo, na forma que especifica."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei.
