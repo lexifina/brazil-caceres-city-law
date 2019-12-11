@@ -1,0 +1,3 @@
+# LEI Nº 2.813, DE 10 DE DEZEMBRO DE 2019 "Altera dispositivo da Lei nº 2.650, de 28 de março de 2018, que dis-põe sobre aquisição pelo Município, por doação do ESPORTE CLU-BE HUMAITÁ, com encargos, de todo o acervo patrimonial material e imaterial do histórico clube social, dando nova redação ao Parágrafo Único de seu Artigo 1º e dá outras providências."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO:
+no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei.
