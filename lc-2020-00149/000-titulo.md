@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 149, DE 15 DE JANEIRO DE 2020 "Dispõe sobre a alteração do Regime de Jornada de Trabalho dos ocupantes do cargo efetivo de vigia da Câmara Municipal de Cáceres, previsto na Lei Complementar nº 111/2017 e dá outras providências."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, inciso VII, faço saber que a Câmara Municipal de Cáceres aprovou, nos termos dos artigos 22 e 25, inciso XXV, dispositivos todos da Lei Orgânica do Município, e eu sanciono, a seguinte Lei Complementar:
