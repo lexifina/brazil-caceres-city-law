@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 151, DE 18 DE MARÇO DE 2020 "Institui o Código de Ética aplicável aos servidores públicos da Pre-feitura Municipal de Cáceres e dá outras providências."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
