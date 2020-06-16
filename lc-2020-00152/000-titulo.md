@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 152 DE 15 DE JUNHO DE 2020 "Altera a Lei Complementar nº 25, de 27 de novembro de 1997, que "Dis-põe sobre o Regime Jurídico dos Servidores Públicos do Município de Cá-ceres."
+O VICE-PRESIDENTE DA CÂMARA MUNICIPAL DE CÁCERES, ESTA-DO DE MATO GROSSO, no uso de suas atribuições legais, especifica-mente prevista no artigo 53, § 8º do da Lei Orgânica Municipal, e artigo 26, inciso I, do Regimento Interno da Câmara Municipal de Cáceres/MT, faz saber que a Câmara Municipal de Cáceres-MT. aprovou e eu promulgo a seguinte Lei Complementar:
