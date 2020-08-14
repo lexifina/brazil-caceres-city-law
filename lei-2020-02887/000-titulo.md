@@ -1,0 +1,2 @@
+# LEI Nº 2.887, DE 13 DE AGOSTO DE 2020 "Autoriza o Poder Executivo Municipal a firmar Convênio com Uni-versidade Federal de Mato Grosso - UFMT e a Fundação de Apoio e Desenvolvimento da Universidade Federal de Mato Grosso-Fundação UNISELVA e dá outras providências."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei.
