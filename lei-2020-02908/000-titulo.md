@@ -1,0 +1,2 @@
+# LEI Nº 2.908, DE 02 DE DEZEMBRO DE 2020 "Altera o art. 1º, da Lei nº 2.840, de 18 de março de 2020, que dispõe sobre a denominação da Creche Municipal localizada no Bairro Gua-nabara."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei.
