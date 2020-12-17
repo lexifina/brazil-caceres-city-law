@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 156, DE 16 DE DEZEMBRO DE 2020 "Altera o art. 195, da Lei Complementar nº 143, de 12 de julho de 2019, e dá outras providências."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
