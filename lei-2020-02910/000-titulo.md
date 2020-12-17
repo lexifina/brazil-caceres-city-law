@@ -1,0 +1,2 @@
+# LEI Nº 2.910, DE 14 DE DEZEMBRO DE 2020 "Dispõe sobre a inclusão da festa da Associação de Produtores Ru-rais da Piraputanga (Apropira), no Calendário Oficial de eventos do Município de Cáceres - Mato Grosso."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso VII, faço saber que a Câmara Municipal de Cáceres aprovou, nos termos dos artigos 22 e 25, ambos da Lei Orgânica do Município, e eu san-ciono a presente Lei.
