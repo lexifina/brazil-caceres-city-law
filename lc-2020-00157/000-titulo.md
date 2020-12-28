@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 157, DE 24 DE DEZEMBRO DE 2020 "Altera o Código Tributário Municipal Lei nº 148, de 26 de dezembro de 2019, em virtude da edição da Lei nº 175, de 23 de setembro de 2020 que altera e regulamenta o ISSQN referente os planos de saúde e operações de cartões de crédito e débito."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
