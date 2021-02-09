@@ -1,0 +1,2 @@
+# LEI Nº 2.918, DE 05 DE FEVEREIRO DE 2021 "Dispõe sobre a autorização para abertura de Crédito Adicional Especial, em favor do Gabinete do Prefeito e da Secretaria Municipal de Agri-cultura e Desenvolvimento Econômico dá outras providência."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
