@@ -1,0 +1,2 @@
+# LEI Nº 2.962, DE 29 DE JUNHO DE 2021 "Inclui no Calendário Oficial do Município o Dia Municipal de Tereza de Benguela e da Mulher Negra Cacerense", a ser comemorado anu-almente no dia 25 de julho. " A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO:
+no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inci-so VII, faço saber que a Câmara Municipal de Cáceres aprovou, nos termos dos art. 22 e 25, ambos da Lei Orgânica do Município, e eu sanciono a presente Lei:
