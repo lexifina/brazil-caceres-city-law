@@ -1,0 +1,2 @@
+# LEI Nº 3.008, DE 07 DE DEZEMBRO DE 2021 "Altera a Lei Municipal nº 2.162, de 12 de dezembro de 2008, alterada pela Lei nº 2.327, de 28 de maio de 2021, revoga a Lei nº 2.943, de 29 de março de 2021 e dá outras providências. " A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO:
+no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
