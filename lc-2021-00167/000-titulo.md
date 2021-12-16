@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 167, DE 15 DE DEZEMBRO DE 2021 LEI COMPLEMENTAR Nº 167, DE 15 DE DEZEMBRO DE 2021 "Altera os artigos 2º, 4º, 5º, 9º, 28, 36 e 39 da Lei Complementar nº 47 de 29/09/2003, que dispõe sobre o Plano de Carreira dos profissionais da Educação de Cáceres e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
