@@ -1,0 +1,2 @@
+# LEI Nº 3.018, DE 27 DE DEZEMBRO DE 2021 "Dispõe sobre o complemento constitucional com recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valori-zação dos Profissionais da Educação (FUNDEB). " A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO:
+no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
