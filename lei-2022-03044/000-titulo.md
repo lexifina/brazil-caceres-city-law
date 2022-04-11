@@ -1,0 +1,2 @@
+# LEI Nº 3.044, DE 07 DE ABRIL DE 2022 "DISPÕE SOBRE AUTORIZAÇÃO PARA ABERTURA DE CRÉDITO ADICIONAL ESPECIAL EM FAVOR DA SECRETARIA MUNICIPAL DE SAÚDE E DÁ OUTRAS PROVIDÊNCIAS" A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO:
+no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
