@@ -1,0 +1,3 @@
+# LEI Nº 3.085, DE 17 DE JUNHO DE 2022 "Autoriza o Poder Executivo Municipal, através da Secretaria Munici-pal de Administração, a firmar Convênio com o Consórcio Intermuni-cipal de Saúde do Oeste de Mato Grosso - CISOMT, para o fim especí-fico de contratação de profissionais de saúde (Médicos Peritos) para prestação de serviços especializados de Perícias Médicas, conforme demanda, e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO:
+no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
