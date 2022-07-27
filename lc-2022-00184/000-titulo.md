@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 184, DE 26 DE JULHO DE 2022 "Dispõe sobre a aplicação parcial do índice do piso salarial aos Profissionais do Magistério do Município de Cáceres/MT, na forma que espe-cifica, alterando anexos da Lei Complementar nº 47/2003."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso VII, faço saber que a Câmara Municipal de Cáceres aprovou, nos termos dos art. 22 e 25, aprovou e eu sanciono a seguinte Lei Complementar:
