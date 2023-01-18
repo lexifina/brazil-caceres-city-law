@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 197, DE 17 DE JANEIRO DE 2023 "Dispõe sobre a aplicação do percentual final do índice do piso salarial aos Profissionais do Magistério do Município de Cáceres/MT, na forma que especifica."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
