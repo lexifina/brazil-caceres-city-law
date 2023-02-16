@@ -1,0 +1,2 @@
+# LEI Nº 3.136, DE 14 DE FEVEREIRO DE 2023 "Institui a Mesa Permanente de Negociação Coletiva, entre a Administra-ção e os Servidores, no município de Cáceres e dá outras providências."
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso de suas atribuições legais, especificamente pre-vista nos §§ 7º e 8º do artigo 53 da Lei Orgânica Municipal, e artigo 24, I, "v" c/c II, "g", do Regimento Interno da Câmara Municipal de Cáceres/MT, promulga a seguinte Lei:
