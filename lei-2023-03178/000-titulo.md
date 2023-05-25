@@ -1,0 +1,3 @@
+# LEI Nº 3.178 DE 23 DE MAIO DE 2023 Avenida Brasil nº 119 - CEP-78.200.000 Fone:(065) 3223-1500 Bairro Jardim Celeste - Cáceres - Mato Grosso.
+LEI Nº 3.178, DE 23 DE MAIO DE 2023 "Dispõe sobre a denominação da Praça Benedito Xavier de Souza Corbelino, localizada no Bairro Residencial Dom Máximo nessa Cidade de Cáceres, e dá outras pro-vidências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso VII, faço saber que a Câmara Municipal de Cáceres apro-vou, nos termos dos art. 22 e 25, ambos da Lei Orgânica do Município, e eu sanciono a presente Lei:
