@@ -1,0 +1,2 @@
+# LEI Nº 3.198, DE 31 DE JULHO DE 2023 "Autoriza o Poder Executivo a aderir o Conselho Municipal de Edu-cação de Cáceres-MT à União Nacional dos Conselhos Municipais de Educação - UNCME e dá outras providências."
+O PREFEITO MUNICIPAL DE CÁCERES, ESTADO DE MATO GROS-SO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
