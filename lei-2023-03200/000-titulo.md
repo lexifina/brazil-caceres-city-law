@@ -1,0 +1,2 @@
+# LEI Nº 3.200 , DE 30 DE AGOSTO DE 2023 "Institui o uso do 'Cordão de Girassol' como instrumento auxiliar de orientação e identificação de pessoas com deficiência oculta, no Mu-nicípio de Cáceres-MT ."
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso de suas atribuições legais, especificamente pre-vista no § 8º do artigo 53 da Lei Orgânica Municipal, e artigo 24, I, "v" c/c II, "g", do Regimento Interno da Câmara Municipal de Cáceres/MT, promulga a seguinte Lei:
