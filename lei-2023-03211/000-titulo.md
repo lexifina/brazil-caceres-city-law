@@ -1,0 +1,2 @@
+# LEI Nº 3.211, DE 29 DE SETEMBRO DE 2023 "In memorian" ao Professor Natalino Ferreira Mendes, 1924 -2011. Po-eta, Escritor, Autor do Hino Municipal de Cáceres, Acadêmico Imortal da AML, Membro Fundador do IHGMT-Cáceres, entre outras obras de relevante valor Sociocultural."
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso de suas atribuições legais, especificamente pre-vista no § 8º do artigo 53 da Lei Orgânica Municipal, e artigo 24, I, "v" c/c II, "g", do Regimento Interno da Câmara Municipal de Cáceres/MT, promulga a seguinte Lei:
