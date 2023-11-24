@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 213, DE 23 DE NOVEMBRO DE 2023 "Dispõe sobre a criação de cargo de Advogado do Sistema Único de Assistência Social - SUAS, no Quadro de Pessoal do Município de Cáce-res, alterando o lotacionograma constante na Lei Complementar nº 110/2017, e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
