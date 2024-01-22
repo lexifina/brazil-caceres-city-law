@@ -1,0 +1,2 @@
+# LEI Nº 3.265, DE 19 DE JANEIRO DE 2024 "APROVA A REVISÃO DO PLANO MUNICIPAL DE SANEAMENTO BÁ-SICO DO MUNICÍPIO DE CÁCERES-MT, CONFORME ART. 5º DA LEI MUNICIPAL Nº 2.544/2016, E DÁ OUTRAS PROVIDÊNCIAS."
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso de suas atribuições legais, especificamente pre-vista nos §§ 7º e 8º do artigo 53 da Lei Orgânica Municipal, e artigo 24, I, "v" c/c II, "g", do Regimento Interno da Câmara Municipal de Cáceres/MT, promulga a seguinte Lei:
