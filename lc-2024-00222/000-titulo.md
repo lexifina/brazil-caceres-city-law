@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 222, DE 26 DE FEVEREIRO DE 2024 "Reajusta o piso salarial do Profissional do Magistério do Município de Cáceres/MT, a título de aplicação do Piso Salarial Nacional do Magis-tério definido pelo MEC e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
