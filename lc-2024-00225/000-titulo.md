@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 225, DE 1º DE ABRIL DE 2024 "Institui o adicional de produtividade aos engenheiros e arquitetos do município de Cáceres. Altera dispositivos das Leis Complementares nº 25/1997 e nº 48/2003, e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
