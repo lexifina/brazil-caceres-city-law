@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 224, DE 1º DE ABRIL DE 2024 "Dispõe sobre a alteração da tabela 03 do Anexo I-C da Lei Complementar 221 de 22 de janeiro de 2024 e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
