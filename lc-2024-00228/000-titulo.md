@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 228, DE 04 DE ABRIL DE 2024 "Regulamenta as atividades do Programa HIV/AIDS, Hepatites Virais e Infecções Sexualmente Transmissíveis, institui a função gratificada de Diretor do Centro de Testagem e Aconselhamento e ao Serviço de Assistência Especializada da Secretaria Municipal de Saúde (CTA/ SAE-SMS) e o adicional de função CTA/SAE-SMS e dá outras provi-dências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO:
+no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
