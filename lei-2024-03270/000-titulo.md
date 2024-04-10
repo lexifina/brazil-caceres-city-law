@@ -1,0 +1,2 @@
+# LEI Nº 3.270, DE 20 DE MARÇO DE 2024 "Dispõe a realização do censo para diagnóstico de crianças e jovens com transtornos do espectro autista (TEA) Matriculados nas escolas do município de CáceresMT e dá outras providências."
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso de suas atribuições legais, especificamente pre-vista nos §§ 7º e 8º do artigo 53 da Lei Orgânica Municipal, e artigo 24, I, "v" c/c II, "g", do Regimento Interno da Câmara Municipal de Cáceres/MT, promulga a seguinte Lei:
