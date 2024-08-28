@@ -1,0 +1,2 @@
+# LEI Nº 3.305, DE 20 DE AGOSTO DE 2024 "Institui e inclui no Calendário Oficial de Eventos do Município de Cá-ceres/MT a "Festa da Vaquejada."
+O PREFEITO MUNICIPAL DE CÁCERES EM EXERCÍCIO, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso VII, faço saber que a Câmara Municipal de Cáceres apro-vou, nos termos dos art. 22 e 25, ambos da Lei Orgânica do Município, e eu sanciono a presente Lei:
