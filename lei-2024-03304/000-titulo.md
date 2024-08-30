@@ -1,0 +1,2 @@
+# LEI Nº 3.304, DE 20 DE AGOSTO DE 2024 "Dispõe sobre autorização para abertura de Crédito Adicional Espe-cial em favor da CÂMARA MUNICIPAL e dá outras providências."
+O PREFEITO MUNICIPAL DE CÁCERES EM EXERCÍCIO, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Mu-nicipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
