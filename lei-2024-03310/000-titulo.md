@@ -1,0 +1,2 @@
+# LEI Nº 3.310, DE 17 DE SETEMBRO DE 2024 "Denomina como 'Rua Raimundo Monteiro Filho' a Rua sem nome, localizada no Bairro Distrito Industrial e dá outras providências."
+O PREFEITO MUNICIPAL DE CÁCERES EM EXERCÍCIO, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso VII, faço saber que a Câmara Municipal de Cáceres apro-vou, nos termos dos art. 22 e 25, ambos da Lei Orgânica do Município, e eu sanciono a presente Lei:
