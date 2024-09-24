@@ -1,0 +1,2 @@
+# LEI Nº 3.308, DE 17 DE SETEMBRO DE 2024 "Dispõe sobre a garantia de mais transparência nas informações re-ferentes ao acesso de crianças na Rede Municipal de Ensino, por meio da criação da "Fila Única."
+O PREFEITO MUNICIPAL DE CÁCERES EM EXERCÍCIO, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso VII, faço saber que a Câmara Municipal de Cáceres apro-vou, nos termos dos art. 22 e 25, ambos da Lei Orgânica do Município, e eu sanciono a presente Lei:
