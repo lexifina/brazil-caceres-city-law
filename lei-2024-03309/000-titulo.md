@@ -1,0 +1,2 @@
+# LEI Nº 3.309, DE 17 DE SETEMBRO DE 2024 "CRIA, NO ÂMBITO DO MUNICÍPIO DE CÁCERES, O 'DIA DA MÃE ATÍPICA' A SER COMEMORADO NO DIA 02 DE ABRIL, MÊS DE CONSCIENTIZAÇÃO SOBRE O AUTISMO."
+O PREFEITO MUNICIPAL DE CÁCERES EM EXERCÍCIO, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso VII, faço saber que a Câmara Municipal de Cáceres apro-vou, nos termos dos art. 22 e 25, ambos da Lei Orgânica do Município, e eu sanciono a presente Lei:
