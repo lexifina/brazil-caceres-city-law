@@ -1,0 +1,2 @@
+# LEI Nº 3.340, DE 03 DE ABRIL DE 2025 "Dispõe sobre a autorização do Poder Executivo para pagar ajuda de custo mensal aos profissionais do Programa Mais Médicos e Médicos Pelo Bra-sil e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso VII, faço saber que a Câmara Municipal de Cáceres aprovou, e eu sanciono a presente Lei:
