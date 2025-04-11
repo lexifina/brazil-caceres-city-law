@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 239, DE 09 DE ABRIL DE 2025 LEI COMPLEMENTAR Nº 239, DE 09 DE ABRIL DE 2025 "Altera dispositivos da Lei Complementar nº 106 de 07 de outubro de 2015, que dispõe sobre a Organização Administrativa do Serviço de Saneamento Ambiental Águas do Pantanal, com a estrutura e compe-tência dos órgãos que a integram e da outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO:
+no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a seguinte Lei Complementar:
