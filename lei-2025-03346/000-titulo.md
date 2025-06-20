@@ -1,0 +1,2 @@
+# LEI N° 3.346, DE 17 DE JUNHO DE 2025 "Dispõe sobre autorização para abertura de Crédito Adicional Especial em favor da Secretaria Municipal de Assistência Social e Cidadania, e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO no uso das prerrogativas que lhe são estabelecidas pelo Artigo 74, Inciso IV da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovará e eu sancionarei o seguinte Projeto de Lei:
