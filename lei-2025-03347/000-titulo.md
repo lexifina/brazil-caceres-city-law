@@ -1,0 +1,3 @@
+# LEI N° 3.347, DE 18 DE JUNHO DE 2025.
+"Dispõe sobre autorização para firmar Termo de Convênio com os Conselhos Deliberativos Escolares ''projeto horta na escola'' bem como abertura de crédito adicional especial em favor da Secretaria Municipal de Meio Ambiente e Desen-volvimento Econômico, através do Fundo Municipal de Defesa do Meio Ambiente-FUMDEMA, e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, NO USO DAS PRERROGATIVAS QUE LHE SÃO ESTABELE-CIDAS PELO ART. 74, INCISO VII, DA LEI ORGÂNICA MUNICIPAL, FAZ SABER QUE A CÂMARA MUNICIPAL DE CÁCERES-MT, APROVOU E EU SANCIONO A PRESENTE LEI:
