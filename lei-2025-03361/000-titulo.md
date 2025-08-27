@@ -1,0 +1,2 @@
+# LEI N° 3.361, DE 22 DE AGOSTO DE 2025 "Institui o Dia Municipal em Homenagem ao Padre Geraldo José dos Santos, a ser celebrado anualmente no dia 25 de junho, no município de Cáceres, e dá outras providênci-as."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a pre-sente Lei:
