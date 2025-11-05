@@ -1,0 +1,2 @@
+# LEI N° 3.371, DE 04 DE NOVEMBRO DE 2025 "Altera o inciso III do artigo 3º da Lei Ordinária nº 1.572, de 09 de março de 2000, alterado anteriormente pela Lei 2.269 de 22 de fevereiro de 2011, que estabelece os níveis de intensidade de som e ruídos nos comércios."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT aprovou e eu sanciono a presente Lei:
