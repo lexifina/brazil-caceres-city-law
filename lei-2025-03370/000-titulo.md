@@ -1,0 +1,3 @@
+# LEI N° 3.370, DE 31 DE OUTUBRO DE 2025.
+"Autoriza a transferência do trecho que tem início en-troncamento com a Rodovia MT-343, no município de Cá-ceres, nas coordenadas geográficas inicial de Latitudes 15°48'14.10"S e Longitude 57°27'14.06"W, estendendo-se até o ponto final de coordenadas de Latitudes 15°27'43.14"S e Longitude 57°33'26.62"W, perfazendo um total de 52,84 quilômetros."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
