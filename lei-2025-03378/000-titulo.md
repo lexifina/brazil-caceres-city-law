@@ -1,0 +1,2 @@
+# LEI N° 3.378, DE 14 DE NOVEMBRO DE 2025.
+"Dispõe sobre a criação do Programa de Saúde Integral para Jovens e Idosos do município de Cáceres-MT e dá ou-tras providências" A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
