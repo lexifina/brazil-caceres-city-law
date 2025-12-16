@@ -1,0 +1,2 @@
+# LEI Nº 3.385, DE 15 DE DEZEMBRO DE 2025 "Dispõe sobre alteração de dispositivo da lei nº 3.332/ 2024, que Estima a Receita e Fixa a Despesa do Município de Cáceres para o Exercício Financeiro de 2025 e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovou e eu sanciono a presente Lei:
