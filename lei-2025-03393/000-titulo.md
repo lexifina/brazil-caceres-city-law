@@ -1,0 +1,2 @@
+# LEI Nº 3.393, DE 31 DE DEZEMBRO DE 2025 LEI Nº 3.393, DE 31 DE DEZEMBRO DE 2025 "Dispõe sobre o Plano Plurianual do Município de Cáceres-MT para Quadriênio 2026 a 2029, e dá outras providênci-as."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, inciso IV, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT, aprovará e eu sancionarei a se-guinte Lei:
