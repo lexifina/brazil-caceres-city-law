@@ -1,0 +1,2 @@
+# LEI Nº 3.397, DE 17 DE MARÇO DE 2026 "Dispõe sobre diretrizes para a criação do 'Selo Empresa Amiga da Família Atípica' no Município de Cáceres/MT, vi-sando o incentivo à inclusão profissional e ao suporte para cuidadores de pessoas com Transtorno do Espectro Autis-ta (TEA), nos termos da Lei Federal nº 12.764/2012."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pelo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cá-ceres-MT, aprovou e eu sanciono a seguinte Lei:
