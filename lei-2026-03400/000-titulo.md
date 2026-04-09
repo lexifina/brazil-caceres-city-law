@@ -1,0 +1,2 @@
+# LEI Nº 3.400, DE 02 DE ABRIL DE 2026 "Dispõe sobre o fornecimento de alimentação aos Profes-sores e demais Profissionais da Rede Municipal de Educa-ção, em efetivo exercício nas unidades do Município de Cá-ceres/MT, após servidos os alunos, e dá outras providênci-as."
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CÁCERES, ESTA-DO DE MATO GROSSO, no uso de suas atribuições legais, espe-cificamente prevista nos §§ 7º e 8º do artigo 53 da Lei Orgânica Municipal, e artigo 24, I, "v" c/c II, "g", do Regimento Interno da Câmara Municipal de Cáceres/MT, promulga a seguinte Lei:
