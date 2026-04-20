@@ -1,0 +1,2 @@
+# LEI Nº 3.401, DE 14 DE ABRIL DE 2026 "Dispõe sobre diretrizes de proteção, orientação para uso respon-sável e critérios de aquisição, posse e porte de spray de pimenta por mulheres para fins de defesa pessoal no âmbito do Município de Cáceres/MT, observada a legislação federal aplicável, e dá ou-tras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres-MT aprovou e eu sanciono a seguin-te Lei:
