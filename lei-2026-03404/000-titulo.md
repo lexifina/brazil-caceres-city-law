@@ -1,0 +1,2 @@
+# LEI Nº 3.404, DE 17 DE ABRIL DE 2026 "Denomina "Avenida Ernani Martins" a atual Avenida Brasil, via la-teral à Prefeitura Municipal de Cáceres, atendendo à solicitação do Deputado Estadual Júlio Campos."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câ-mara Municipal de Cáceres-MT aprovou, e eu sanciono a seguinte Lei:
