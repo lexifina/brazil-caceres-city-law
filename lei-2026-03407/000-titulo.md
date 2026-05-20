@@ -1,0 +1,2 @@
+# LEI Nº 3.407, DE 30 DE ABRIL DE 2026 "Dispõe sobre a instituição da Sexta-Feira da Paixão (Sex-ta-Feira Santa) como feriado religioso municipal, e dá ou-tras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câ-mara Municipal de Cáceres-MT aprovou, e eu sanciono a seguinte Lei:
