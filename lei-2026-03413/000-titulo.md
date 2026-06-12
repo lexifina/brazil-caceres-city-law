@@ -1,0 +1,2 @@
+# LEI Nº 3.413, DE 10 DE JUNHO DE 2026 "Revoga a Lei Municipal n° 3.412, de 27 de Maio de 2026, que institui o auxílio-alimentação aos Vereadores da Câmara Munici-pal de Cáceres-MT, e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câ-mara Municipal de Cáceres-MT aprovou, e eu sanciono a seguinte Lei:
