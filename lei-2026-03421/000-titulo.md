@@ -1,0 +1,2 @@
+# LEI Nº 3.421, DE 16 DE JULHO DE 2026 "Altera a Lei nº 3.417, de 30 de junho de 2026, para modificar as condições de parcelamento previstas no art. 12, e dá outras pro-vidências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres - MT, aprovou e eu sanciono a se-guinte Lei:
