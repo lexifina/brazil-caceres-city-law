@@ -1,0 +1,2 @@
+# LEI Nº 3.423, DE 31 DE JULHO DE 2026 "Autoriza o Poder Executivo Municipal a receber imóvel da União destinado à implantação de empreendimento habitacional de in-teresse social no âmbito do Programa Minha Casa, Minha Vida - FAR, autoriza a participação do Município no Programa e dá ou-tras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres - MT, aprovou e eu sanciono a se-guinte Lei:
