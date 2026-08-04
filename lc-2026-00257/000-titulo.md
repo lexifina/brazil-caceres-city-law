@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 257 DE 31 DE JULHO DE 2026 "DISPÕE SOBRE A CONCESSÃO DE INCENTIVOS FISCAIS AOS EMPREENDIMENTOS HABITACIONAIS DE INTERESSE SOCIAL VINCULADOS AO PROGRAMA MINHA CASA, MINHA VIDA - PMCMV, E DÁ OUTRAS PROVIDÊNCIAS."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO, no uso das atribuições que lhe confere o art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres aprovou e eu sanciono a seguinte Lei Complementar
