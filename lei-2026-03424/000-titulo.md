@@ -1,0 +1,3 @@
+# LEI Nº 3.424, DE 03 DE AGOSTO DE 2026.
+"Revoga a Lei Municipal nº 3.335, de 30 de dezembro de 2024, que fixou os subsídios mensais dos Vereadores, Prefeito, Vice-pre-feito e Secretários Municipais de Cáceres-MT, declara a irrepeti-bilidade dos valores recebidos até a data da decisão liminar que suspendeu o pagamento dos subsídios parlamentares correspon-dentes ao aumento concedido, e dá outras providências."
+A PREFEITA MUNICIPAL DE CÁCERES, ESTADO DE MATO GROSSO: no uso das prerrogativas que lhe são estabelecidas pe-lo art. 74, inciso VII, da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Cáceres - MT, aprovou e eu sanciono a se-guinte Lei:
