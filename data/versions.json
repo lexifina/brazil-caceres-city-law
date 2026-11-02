@@ -1,0 +1,1335 @@
+{
+ "country": "BR-MT-CACERES",
+ "acts": [
+  {
+   "slug": "lei-2026-03436",
+   "short": "Lei 3436/2026",
+   "title": "Lei nº 3.436, de 21 de setembro de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2457",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2457/lei_n_3.436_de_21_de_setembro_de_2026..pdf",
+     "sha256": "f94d5a20d3d105994efa5aed3de4e7d2888755c696f98c07c9d64738fdbb59bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03435",
+   "short": "Lei 3435/2026",
+   "title": "Lei nº 3.435, de 16 de setembro de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2456",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 9,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2456/lei_n_3.435_de_16_de_setembro_de_2026..pdf",
+     "sha256": "ada8faeebde7b6876626c1210baedbc23075bd1b3c161437e1a39f7e5ea66fbb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03430",
+   "short": "Lei 3430/2026",
+   "title": "Lei nº 3.430, de 19 de agosto de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2450",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2450/lei_no_3.430_de_19_de_agosto_de_2026..pdf",
+     "sha256": "b4b381c24218603f7043ce1036a871f872cfe865fbb65e98ecca3c88a0844533"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03429",
+   "short": "Lei 3429/2026",
+   "title": "Lei nº 3.429, de 10 de agosto de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2419",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2419/lei_no_3.429_de_10_de_agosto_de_2026..pdf",
+     "sha256": "ebeb648fce432e7e63bca9febffa760a76c36ab97a5a504f6846e7b66019c23e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03428",
+   "short": "Lei 3428/2026",
+   "title": "Lei nº 3.428, de 6 de agosto de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2411",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 8,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2411/lei_no_3.428_de_06_de_agosto_de_2026..pdf",
+     "sha256": "d5136e6d5124bde06a98ac94c55d61295987b21ca60e317e1cb5534493879943"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03427",
+   "short": "Lei 3427/2026",
+   "title": "Lei nº 3.427, de 4 de agosto de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2406",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 9,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2406/lei_no_3.427_de_04_de_agosto_de_2026..pdf",
+     "sha256": "114872380ba664d1e22822cf87d4628ee037d618dfce57a3f02bfe3dbb38ec18"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03425",
+   "short": "Lei 3425/2026",
+   "title": "Lei nº 3.425, de 4 de agosto de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2404",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 8,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2404/lei_no_3.425_de_04_de_agosto_de_2026..pdf",
+     "sha256": "47d227486a4f41c4d4183097d310d326471e3e91a8ccaa7325d1e9c4580927e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03424",
+   "short": "Lei 3424/2026",
+   "title": "Lei nº 3.424, de 3 de agosto de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2393",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2393/lei_no_3.424_de_03_de_agosto_de_2026..pdf",
+     "sha256": "deaf13d56535d4fb79eeb3a24f8dfbb22090105ac97dd48f42ff748a63a58c5a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03423",
+   "short": "Lei 3423/2026",
+   "title": "Lei nº 3.423, de 31 de julho de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2392",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 12,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2392/lei_no_3.423_de_31_de_julho_de_2026.pdf",
+     "sha256": "616f8621d7f56b973ed772571d1f9d65800115dd6eafc5f6f619f0ff9ba990f3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00257",
+   "short": "LC 257/2026",
+   "title": "Lei Complementar nº 257, de 31 de julho de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2403",
+   "versions": [
+    {
+     "from": "2026-08-04",
+     "units": 13,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2403/lei_complementar_no_257_de_31_de_julho_de_2026.pdf",
+     "sha256": "8def1cfdce5dd18278e9d3cb670fe4d11aa518f57a6459ce92a637f779993ed4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03422",
+   "short": "Lei 3422/2026",
+   "title": "Lei nº 3.422, de 20 de julho de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2312",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 9,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2312/lei_no_3.422_de_20_de_julho_de_2026.pdf",
+     "sha256": "885f6cf2119a5f2768f0bb192bb3675948b06e9e3e9bdb7ef0558b9ea472e860"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03421",
+   "short": "Lei 3421/2026",
+   "title": "Lei nº 3.421, de 16 de julho de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2244",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2244/lei_no_3.421_de_16_de_julho_de_2026.pdf",
+     "sha256": "0d74aa9abdb4d2b1040dc4dca29ae0c8f0ca55601ad7ccc82e2898b4cf3eb13a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03414",
+   "short": "Lei 3414/2026",
+   "title": "Lei nº 3.414, de 16 de junho de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2228",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2228/lei_no_3.414_de_16_de_junho_de_2026.pdf",
+     "sha256": "12b7f53e97da7ed00aca24ffd388fd5e2177d193cf60f4f659dcfe8b0763bc7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03413",
+   "short": "Lei 3413/2026",
+   "title": "Lei nº 3.413, de 10 de junho de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2227",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2227/lei_no_3.413_de_10_de_junho_de_2026.pdf",
+     "sha256": "ee26d3b889e597010637fa52a30b0c8cd6367fee7663d6cb72e0742a86e82b1c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03411",
+   "short": "Lei 3411/2026",
+   "title": "Lei nº 3.411, de 27 de maio de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2224",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2224/lei_no_3.411_de_27_de_maio_de_202.pdf",
+     "sha256": "6b92426c3b60f3180a8727f05d7ea528c8fb0a3dd16dec0ee0f825d5e74f37b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03410",
+   "short": "Lei 3410/2026",
+   "title": "Lei nº 3.410, de 27 de maio de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2223",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2223/lei_no_3.410_de_27_de_maio_de_2026.pdf",
+     "sha256": "afc6e4af8bf9b565b0f09a8381cfa2e3308b798903204b3a395edcf94e325357"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03409",
+   "short": "Lei 3409/2026",
+   "title": "Lei nº 3.409, de 27 de maio de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2222",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2222/lei_no_3.409_de_27_de_maio_de_2026.pdf",
+     "sha256": "3669fb4160605ca0136c23d443628f8bcec88fd35e650fbc35520cf6aa7a3207"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03408",
+   "short": "Lei 3408/2026",
+   "title": "Lei nº 3.408, de 27 de maio de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2221",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2221/lei_no_3.408_de_27_de_maio_de_2026.pdf",
+     "sha256": "8788a3500d31b7a52c54855855a32a99fa6c9bcc6230388e24972df3be641eca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03407",
+   "short": "Lei 3407/2026",
+   "title": "Lei nº 3.407, de 30 de abril de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2220",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2220/lei_no_3.407_de_30_de_abril_de_2026.pdf",
+     "sha256": "37a7fcc75669bbcb908a5ba457cc9cebf3b4b9ba1a8f37835205648e1ade0304"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03405",
+   "short": "Lei 3405/2026",
+   "title": "Lei nº 3.405, de 27 de abril de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2215",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2215/lei_no_3.405_de_27_de_abril_de_2026.pdf",
+     "sha256": "81b48454ee1a679adae9b5b8382e35c35e1b90071c3eba1d5333ec1697fe58e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03404",
+   "short": "Lei 3404/2026",
+   "title": "Lei nº 3.404, de 17 de abril de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2213",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2213/lei_no_3.404_de_17_de_abril_de_2026.pdf",
+     "sha256": "757629ff8556441e9facbbadf76bb0b6b3123656b0ec3893d0f8c83fad2b91d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03401",
+   "short": "Lei 3401/2026",
+   "title": "Lei nº 3.401, de 14 de abril de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2210",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 10,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2210/lei_no_3.401_de_14_de_abril_de_2026.pdf",
+     "sha256": "751bb362102563e6fefecbb01befcae7385341b2e3583a824c4c486b12ab0ed7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03400",
+   "short": "Lei 3400/2026",
+   "title": "Lei nº 3.400, de 8 de abril de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2206",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2206/lei_no_3.400_de_02_de_abril_de_2026.pdf",
+     "sha256": "8ffc606876ba3471999f2d9a188c811673940d9c904f8fbce30786a633fc72cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03397",
+   "short": "Lei 3397/2026",
+   "title": "Lei nº 3.397, de 17 de março de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2193",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 8,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2193/lei_no_3.397_de_17_de_marco_de_2026.pdf",
+     "sha256": "0889304100f04f34af1aded4e26a3bbb4e84cc43c12928c711822d24969a75cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03395",
+   "short": "Lei 3395/2026",
+   "title": "Lei nº 3.395, de 27 de janeiro de 2026",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2189",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2026/2189/lei_no_3.395_de_27_de_janeiro_de_2026.pdf",
+     "sha256": "4009c54402cdd0adfc9ef710404630bfae776bc64827fd7c2900685c48c4a5c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03393",
+   "short": "Lei 3393/2025",
+   "title": "Lei nº 3.393, de 31 de dezembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2182",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 13,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2182/lei_no_3.393_de_31_de_dezembro_de_2025.pdf",
+     "sha256": "a11fe8077f6562fa76f4a77baaa9ff1cf9ae70e4529fe8b8663b7e677480e44e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03386",
+   "short": "Lei 3386/2025",
+   "title": "Lei nº 3.386, de 16 de dezembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2175",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2175/lei_no_3.386_de_16_de_dezembro_de_2025.pdf",
+     "sha256": "a069fbe5e1fc4a7549c1e5ede5497cac41f9df846b364ab75b19b12537585ff2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03385",
+   "short": "Lei 3385/2025",
+   "title": "Lei nº 3.385, de 15 de dezembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2174",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2174/lei_no_3.385_de_15_de_dezembro_de_2025.pdf",
+     "sha256": "61c1795f2751f3fed845671e32e50ae56a0fe2202bcba6a4d359df23a1783dd6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03382",
+   "short": "Lei 3382/2025",
+   "title": "Lei nº 3.382, de 15 de dezembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2066",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 9,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2066/lei_no_3.382_de_15_de_dezembro_de_2025.pdf",
+     "sha256": "38d297d7c5ee2aad143d70cf5d1a1a9cc2fb20d03d535b55740cd5a6e8283582"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00247",
+   "short": "LC 247/2025",
+   "title": "Lei Complementar nº 247, de 9 de dezembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2184",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2184/lei_complementar_n_247_de_09_de_dezembro_de_2025..pdf",
+     "sha256": "83447cfb418592ad260152cd00dd71fab9630b54d3a421c4e5510aa2f389d3f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03378",
+   "short": "Lei 3378/2025",
+   "title": "Lei nº 3.378, de 14 de novembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2017",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 9,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2017/lei_n_3.378_de_14_de_novembro_de_2025..pdf",
+     "sha256": "29a17f87b98d3877a86019f0dd3bf5beb47cbdef653540ac26ff6f38cef949fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03377",
+   "short": "Lei 3377/2025",
+   "title": "Lei nº 3.377, de 10 de novembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2016",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2016/lei_n_3.377_de_10_de_novembro_de_2025..pdf",
+     "sha256": "1fa3aad7400089d0143a57530c1efd3040631b1194c6ea691b956ab7d3c9e8e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03376",
+   "short": "Lei 3376/2025",
+   "title": "Lei nº 3.376, de 10 de novembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2015",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2015/lei_n_3.376_de_10_de_novembro_de_2025..pdf",
+     "sha256": "212a754421426ebd287d086566f79d4fd68cc45cc1edee1da1461a6637074c17"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03375",
+   "short": "Lei 3375/2025",
+   "title": "Lei nº 3.375, de 10 de novembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2014",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2014/lei_n_3.375_de_10_de_novembro_de_2025..pdf",
+     "sha256": "bf2803fe7b002ad4cfb6b9aa6f07aad2adf6426ecdfe03330408eb819d7b7293"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03371",
+   "short": "Lei 3371/2025",
+   "title": "Lei nº 3.371, de 4 de novembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2010",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2010/lei_n_3.371_de_04_de_novembro_de_2025.pdf",
+     "sha256": "628e98bc290f1b9ff10a30dd3bdc3517840848b0a20eadbf22a36c244df6a273"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03370",
+   "short": "Lei 3370/2025",
+   "title": "Lei nº 3.370, de 31 de outubro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/2009",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/2009/lei_n_3.370_de_31_de_outubro_de_2025..pdf",
+     "sha256": "7a280c2ca801b854f54ce41a50741e92e53a410d178b6c8ab6a032e11b88287f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03367",
+   "short": "Lei 3367/2025",
+   "title": "Lei nº 3.367, de 29 de setembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1986",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1986/lei_n_3.367_de_29_de_setembro_de_2025..pdf",
+     "sha256": "4c2554f8cd0c5b4d92a2e20fb738f7a9effe218b36e6d85f578e82e39ca94f2c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03365",
+   "short": "Lei 3365/2025",
+   "title": "Lei nº 3.365, de 9 de setembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1926",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1926/lei_n_3.365_de_09_de_setembro_de_2025..pdf",
+     "sha256": "146eee49588ca610d370d35c1840433278342fe37eabc5302cad634a19dbab57"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03362",
+   "short": "Lei 3362/2025",
+   "title": "Lei nº 3.362, de 1 de setembro de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1923",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1923/lei_n_3.362_de_01_de_setembro_de_2025..pdf",
+     "sha256": "b683f83de76599a8cbed3469232a18b0441209af94381cef0c2321c317b30d33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03361",
+   "short": "Lei 3361/2025",
+   "title": "Lei nº 3.361, de 22 de agosto de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1899",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1899/lei_n_3.361_de_22_de_agosto_de_2025.pdf",
+     "sha256": "a4504ca71647c75637c451263c7f41cde363f4f324ce635ba71375c820e313d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03353",
+   "short": "Lei 3353/2025",
+   "title": "Lei nº 3.353, de 24 de julho de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1853",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1853/lei_n_3.353_de_25_de_julho_de_2025..pdf",
+     "sha256": "aaee1c86d0038bec5a6256f9956a9fa7aa832740b39069b2c67fa527328150da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03352",
+   "short": "Lei 3352/2025",
+   "title": "Lei nº 3.352, de 24 de julho de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1852",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1852/lei_n_3.352_de_24_de_julho_de_2025..pdf",
+     "sha256": "6dc881f9c4a72c123a3ee9cebbdfecee5b9a5daf756d05fd16427fe01381abd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03349",
+   "short": "Lei 3349/2025",
+   "title": "Lei nº 3.349, de 24 de junho de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1841",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1841/lei_no_3.349_de_24_de_junho_de_2025..pdf",
+     "sha256": "729f1f6d1fa01c52598276440ae6b4763cd0c22cf3c0d6b0e9565a938d2ba3fb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03348",
+   "short": "Lei 3348/2025",
+   "title": "Lei nº 3.348, de 18 de junho de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1840",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1840/lei_no_3.348_de_18_de_junho_de_2025..pdf",
+     "sha256": "4b0b836e1009d9cbbe2c3761acbfa1ff443905ae42bfb6e7009420a1e5f74bd3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03347",
+   "short": "Lei 3347/2025",
+   "title": "Lei nº 3.347, de 18 de junho de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1836",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 9,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1836/lei_no_3.347_de_18_de_junho_de_2025..pdf",
+     "sha256": "7f7138fd8ec61250cbb5c4690c4bff6ecbed7c9e894a0960d3cabdb5683abfa9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03346",
+   "short": "Lei 3346/2025",
+   "title": "Lei nº 3.346, de 17 de junho de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1827",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1827/lei_no_3.346_de_17_de_junho_de_2025.pdf",
+     "sha256": "abc0cd2efdb768871ff5a734131d87801cd35638ffaea7d4bb262c7161c23c0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03341",
+   "short": "Lei 3341/2025",
+   "title": "Lei nº 3.341, de 16 de abril de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1748",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1748/lei_n_3.341_de_16_de_abril_de_2025..pdf",
+     "sha256": "2f1eefa4a54f15865cfa57b7c45e90994c0be2cedd302d8492fce8a43cfdce28"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00240",
+   "short": "LC 240/2025",
+   "title": "Lei Complementar nº 240, de 14 de abril de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1718",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1718/lei_complementar_no_240_de_14_de_abril_de_2025.pdf",
+     "sha256": "ee222975dc0d37619b8a2033351b104e9ee21094ae37cbeb701ab67729674af7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00239",
+   "short": "LC 239/2025",
+   "title": "Lei Complementar nº 239, de 9 de abril de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1717",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1717/lei_complementar_no_239_de_09_de_abril_de_2025_2.pdf",
+     "sha256": "2fefe7f5e009644ef6012cbc6eec0a7d3d9c2205dad3e034f40514631de53f67"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03340",
+   "short": "Lei 3340/2025",
+   "title": "Lei nº 3.340, de 3 de abril de 2025",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1747",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 8,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2025/1747/lei_no_3.340_de_03_de_abril_de_2025.pdf",
+     "sha256": "b1540dcb26e9f62bb4bc67fb631b755a2894cd1975ea039a4d662596b2a0fb38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03331",
+   "short": "Lei 3331/2024",
+   "title": "Lei nº 3.331, de 23 de dezembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1570",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 23,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1570/lei_no_3.331_de_23_dezembro_de_2024.pdf",
+     "sha256": "400824df1cf5779dbfd714b213b0522620d05e3d18cbf7b20ac1f0695d210649"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03328",
+   "short": "Lei 3328/2024",
+   "title": "Lei nº 3.328, de 19 de dezembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1567",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1567/lei_no_3.328_de_19_dezembro_de_2024.pdf",
+     "sha256": "08ed3bfcd21e3b51e61880336b48ffe49ec07fd0bbc692dd6a25bd05c3fb3506"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03327",
+   "short": "Lei 3327/2024",
+   "title": "Lei nº 3.327, de 17 de dezembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1566",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1566/lei_no_3.327_de_17_de_dezembro_de_2024.pdf",
+     "sha256": "6a56dd00bdb6da065086eaea4b6573d4f070b19fcdd30c4748cfbdce7918a531"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03326",
+   "short": "Lei 3326/2024",
+   "title": "Lei nº 3.326, de 17 de dezembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1561",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1561/lei_no_3.326_de_17_de_dezembro_de_2024.pdf",
+     "sha256": "f258497b6f77c97c6bf1fcac6e7cd5eee459e164235dd1016b7027c779d53747"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03325",
+   "short": "Lei 3325/2024",
+   "title": "Lei nº 3.325, de 17 de dezembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1544",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1544/lei_no_3.325_de_17_de_dezembro_de_2024.pdf",
+     "sha256": "1f810c866a6c32c4163bbb68d7088d33be83f17915cad6e5162a25046d138815"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03322",
+   "short": "Lei 3322/2024",
+   "title": "Lei nº 3.322, de 9 de dezembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1541",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1541/lei_no_3.322_de_09_de_dezembro_de_2024.pdf",
+     "sha256": "8f6465d1d73d0c4cd4b7b003ffa92f73aa999b9037dc37acd821e5b5397b9b66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03321",
+   "short": "Lei 3321/2024",
+   "title": "Lei nº 3.321, de 3 de dezembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1476",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1476/lei_no_3.321_de_03_de_dezembro_de_2024.pdf",
+     "sha256": "5be1a027aa8c44066410593d168e98730894b66e98e0832b527a4bfc25c31aa8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03320",
+   "short": "Lei 3320/2024",
+   "title": "Lei nº 3.320, de 2 de dezembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1479",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1479/lei_no_3.320_de_02_de_dezembro_de_2024.pdf",
+     "sha256": "b8e05653a66ba0729c40020c7f822edecfd025ca29c48727c0818f3786ff81f0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03318",
+   "short": "Lei 3318/2024",
+   "title": "Lei nº 3.318, de 25 de novembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1477",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1477/lei_no_3.318_de_25_de_novembro_de_2024.pdf",
+     "sha256": "14c853ffe26e0524b2bf11a4c00263d370909a7ea9f3f9279cbebadc2784dd50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03317",
+   "short": "Lei 3317/2024",
+   "title": "Lei nº 3.317, de 25 de novembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1474",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1474/lei_no_3.317_de_25_de_novembro_de_2024.pdf",
+     "sha256": "3499d76db49f09d99c5ed29dfdb92ad95afaca50190622ec023399dd7d982418"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03316",
+   "short": "Lei 3316/2024",
+   "title": "Lei nº 3.316, de 13 de novembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1465",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1465/lei_no_3.316_de_13_de_novembro_de_2024.pdf",
+     "sha256": "cf1fb3c0a20daae142c616e53a24cf737428e4e59991ccdf314c83b6aad2df1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03315",
+   "short": "Lei 3315/2024",
+   "title": "Lei nº 3.315, de 13 de novembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1464",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1464/lei_no_3.315_de_13_de_novembro_de_2024.pdf",
+     "sha256": "9edc13af22832f2f57f431c7fc0b628a29bd36976a272e0955967227e45957cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03313",
+   "short": "Lei 3313/2024",
+   "title": "Lei nº 3.313, de 21 de outubro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1440",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1440/lei_no_3.313_de_21_de_outubro_de_2024.pdf",
+     "sha256": "1f2e305b686d439fc61a0bc25a0283543e70c927a0ae21a5d2c0cb946ccf4d91"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03310",
+   "short": "Lei 3310/2024",
+   "title": "Lei nº 3.310, de 17 de setembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1409",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1409/lei_no_3.310_de_17_de_setembro_de_2024.pdf",
+     "sha256": "5b6489767b906ff68e67cf8fd2ba6726ace828dc0b9f1ebf4d0987fc83a4ade1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03309",
+   "short": "Lei 3309/2024",
+   "title": "Lei nº 3.309, de 17 de setembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1408",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1408/lei_no_3.309_de_17_de_setembro_de_2024.pdf",
+     "sha256": "d116b1af0e741078d0aafa4fc7290925ec1459eb2ac60750875716cdd4bb232c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03308",
+   "short": "Lei 3308/2024",
+   "title": "Lei nº 3.308, de 17 de setembro de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1407",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1407/lei_no_3.308_de_17_de_setembro_de_2024.pdf",
+     "sha256": "d116b1af0e741078d0aafa4fc7290925ec1459eb2ac60750875716cdd4bb232c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03306",
+   "short": "Lei 3306/2024",
+   "title": "Lei nº 3.306, de 21 de agosto de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1389",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1389/lei_no_3.306_de_21_de_agosto_de_2024.pdf",
+     "sha256": "6540d528a903367c0e98ea1fd0d3e8a422bc1ee90e837e11811d89822aeac824"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03305",
+   "short": "Lei 3305/2024",
+   "title": "Lei nº 3.305, de 20 de agosto de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1388",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1388/lei_no_3.305_de_20_de_agosto_de_2024.pdf",
+     "sha256": "e9a9be8ee2ef688038d5fb2120cda471c0ba5c7765b14b7051b1e19e15abc15a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03304",
+   "short": "Lei 3304/2024",
+   "title": "Lei nº 3.304, de 20 de agosto de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1387",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1387/lei_no_3.304_de_20_de_agosto_de_2024.pdf",
+     "sha256": "49a828b2649eeb399b94f6f4cd76c82edecc262e15d58f6e3359c63025499556"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03303",
+   "short": "Lei 3303/2024",
+   "title": "Lei nº 3.303, de 13 de agosto de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1377",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1377/lei_no_3.303_de_13_de_agosto_de_2024.pdf",
+     "sha256": "d75c991174017c5a176b4480dd70cbbce1507018d6fbbf26481dfc4b216024bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03302",
+   "short": "Lei 3302/2024",
+   "title": "Lei nº 3.302, de 9 de agosto de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1376",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 13,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1376/lei_no_3.302_de_09_de_agostode_2024.pdf",
+     "sha256": "7fb263096a5fbe08711f8a327449dae4d4c8c3af4ecf84d27077617261f03b41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03300",
+   "short": "Lei 3300/2024",
+   "title": "Lei nº 3.300, de 6 de agosto de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1374",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1374/lei_no_3.300_de_06_de_agosto_de_2024.pdf",
+     "sha256": "f3edd183276ce9cc38e1a867b66827fb67d96d3f314c551f14d062f8988ad125"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03297",
+   "short": "Lei 3297/2024",
+   "title": "Lei nº 3.297, de 15 de julho de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1362",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1362/lei_no_3.297_de_15_de_julho_de_2024.pdf",
+     "sha256": "23e7744d65325f1d7c4cf7231b655a0e57d5fa58e35bd3b47323c38e7201ca86"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03294",
+   "short": "Lei 3294/2024",
+   "title": "Lei nº 3.294, de 10 de julho de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1316",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 11,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1316/lei_no_3.294_de_10_de_julho_de_2024.pdf",
+     "sha256": "b16dc39410ab14c5910c5bf6f8837e035bae92316ec3044e63a9093f3ffa14b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03291",
+   "short": "Lei 3291/2024",
+   "title": "Lei nº 3.291, de 26 de junho de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1230",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1230/lei_no_3.291_de_26_de_junho_de_2024.pdf",
+     "sha256": "20ccf91125e005a264ba3dda28746c68c6751c7951b675a8c24c0d8b7c91edff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03290",
+   "short": "Lei 3290/2024",
+   "title": "Lei nº 3.290, de 14 de junho de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1229",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 16,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1229/lei_no_3.290_de_14_de_junho_de_2024.pdf",
+     "sha256": "0e7b673be792dfb9d7f21635f1fe54e4f6335065d47eba5d2889451674c93d01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03289",
+   "short": "Lei 3289/2024",
+   "title": "Lei nº 3.289, de 10 de junho de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1228",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 69,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1228/lei_no_3.289_de_10_de_junho_de_2024.pdf",
+     "sha256": "912451db41aebeb6e85622bf257635188d0c9de57d384d91b4fa67191a0e5ecb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03288",
+   "short": "Lei 3288/2024",
+   "title": "Lei nº 3.288, de 5 de junho de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1227",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1227/lei_no_3.288_de_05_de_junho_de_2024.pdf",
+     "sha256": "b048f10e7eac84126d7189da3627470014a4f4d0ab565af4987d4cda696596bc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00232",
+   "short": "LC 232/2024",
+   "title": "Lei Complementar nº 232, de 27 de maio de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1225",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1225/lei_complementar_no_232_de_27_de_maio_de_2024.pdf",
+     "sha256": "b319dee7eadc301ad62e3eb43428e4ef45ac2cdf33089de782fe61d65e4fa16f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00231",
+   "short": "LC 231/2024",
+   "title": "Lei Complementar nº 231, de 17 de maio de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1224",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1224/lei_complementar_no_231_de_17_de_maio_de_2024.pdf",
+     "sha256": "d86e8d392ccacfd7829cd7f7ae05a7e572881718b205983573995e2923f04373"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03284",
+   "short": "Lei 3284/2024",
+   "title": "Lei nº 3.284, de 16 de maio de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1206",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1206/lei_no_3.284_de_16_de_maio_de_2024.pdf",
+     "sha256": "da7316da02a87a42881b24603790f1b5279e7c43644db25c027971d3b2d4b0d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03286",
+   "short": "Lei 3286/2024",
+   "title": "Lei nº 3.286, de 13 de maio de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1223",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1223/lei_no_3.286_de_13_de_maio_de_2024.pdf",
+     "sha256": "5e94c9799540885f16b699f2d8a1a597f12751f86422606f5e688eb471161996"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03285",
+   "short": "Lei 3285/2024",
+   "title": "Lei nº 3.285, de 8 de maio de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1207",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1207/lei_no_3.285_de_08_de_maio_de_2024.pdf",
+     "sha256": "1ccd848f62b93ab6b717f0605866beff14ba4470a099e9253f6f35fc3ae925ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03283",
+   "short": "Lei 3283/2024",
+   "title": "Lei nº 3.283, de 6 de maio de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1205",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1205/lei_no_3.283_de_06_de_maio_de_2024.pdf",
+     "sha256": "26c9f210fb3051c5f019361acbb18dcf551a12314f709384cdde634c6c29fd02"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03282",
+   "short": "Lei 3282/2024",
+   "title": "Lei nº 3.282, de 23 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1196",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1196/lei_no_3.282_de_23_de_abril_de_2024.pdf",
+     "sha256": "79fab65ab3f1bb133dbe547965f00fa3e76495553ff872a283cabe60cdbdf6ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03280",
+   "short": "Lei 3280/2024",
+   "title": "Lei nº 3.280, de 22 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1194",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1194/lei_no_3.280_de_22_de_abril_de_2024.pdf",
+     "sha256": "5e296401129e19a9282ee057ac91b88e8225f6500cbeed18a0932cc7ad1b1c4e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03279",
+   "short": "Lei 3279/2024",
+   "title": "Lei nº 3.279, de 17 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1193",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1193/lei_no_3.279_de_17_de_abril_de_2024.pdf",
+     "sha256": "9435a7a5a21a9b0d7c4a77befd459769a76a807dfbc3d2984bf41457f1bb8470"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00230",
+   "short": "LC 230/2024",
+   "title": "Lei Complementar nº 230, de 4 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1158",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 24,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1158/lei_complementar_no_230_de_04_de_abril_de_2024.pdf",
+     "sha256": "d707dd10127e0108706a1f62c442a69033e4a8213f9cf6e28b22d75ea069be11"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00228",
+   "short": "LC 228/2024",
+   "title": "Lei Complementar nº 228, de 4 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1156",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 13,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1156/lei_complementar_no_228_de_04_de_abril_de_2024.pdf",
+     "sha256": "d13d458ee117bb5d1919fbce3a8b70c78b0fe8b2ba25b0e3216fb263581027be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03274",
+   "short": "Lei 3274/2024",
+   "title": "Lei nº 3.274, de 3 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1155",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1155/lei_no_3.274_de_03_de_abril_de_2024.pdf",
+     "sha256": "13a887dd80bd2c458cddd02781ac91162cf1b0d128b0db98068115acf86b4c59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03273",
+   "short": "Lei 3273/2024",
+   "title": "Lei nº 3.273, de 2 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1154",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1154/lei_no_3.273_de_02_de_abril_de_2024.pdf",
+     "sha256": "3530de374e6aa22df4af0611449344523be15eb38ba13551839e248fcd1330a3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00226",
+   "short": "LC 226/2024",
+   "title": "Lei Complementar nº 226, de 1 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1146",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1146/lei_complementar_no_226_de_1o_de_abril_de_2024.pdf",
+     "sha256": "fdf9551ab0b17614d8164e092830721884fb642c0f14bfe17e879780bbb3df6f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00225",
+   "short": "LC 225/2024",
+   "title": "Lei Complementar nº 225, de 1 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1145",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 13,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1145/lei_complementar_no_225_de_1o_de_abril_de_2024.pdf",
+     "sha256": "8194e9b869c66c71331ce766f729e12ebb3cc34ed9656f478c46f41d112ea321"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00224",
+   "short": "LC 224/2024",
+   "title": "Lei Complementar nº 224, de 1 de abril de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1144",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1144/lei_complementar_no_224_de_1o_de_abril_de_2024.pdf",
+     "sha256": "a8cdb6cb01516f7d18b1b87b75b2bff58b91b11dfaea9226651e25dcb6b94c03"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-03272",
+   "short": "Lei 3272/2024",
+   "title": "Lei nº 3.272, de 25 de março de 2024",
+   "url": "https://sapl.caceres.mt.leg.br/norma/1150",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2024/1150/lei_no_3.272_de_25_de_marco_de_2024.pdf",
+     "sha256": "0c5facae945bf4697ac7abb09c5803430ff0722ae78692a45c1bb9c8a7bb9d80"
+    }
+   ]
+  }
+ ]
+}

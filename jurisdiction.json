@@ -1,0 +1,9 @@
+{
+  "path": "br-mt-caceres",
+  "code": "BR-MT-CACERES",
+  "name": "Cáceres (city)",
+  "level": "municipality",
+  "parent": "br-mt",
+  "repo": "https://github.com/lexifina/brazil-caceres-city-law",
+  "build": "built: the law of Cáceres from the Câmara Municipal's SAPL"
+}
