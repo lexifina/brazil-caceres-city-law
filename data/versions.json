@@ -2828,6 +2828,398 @@
      "sha256": "d264091f02e4064523fc65962d30bf89c06f59a7e56646b3195816839ad9a98f"
     }
    ]
+  },
+  {
+   "slug": "lc-2022-00180",
+   "short": "LC 180/2022",
+   "title": "Lei Complementar nº 180, de 28 de abril de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/406",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 10,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/406/lei_complementar_no_180_de_28_de_abril_de_2022.pdf",
+     "sha256": "2e7a31a23cbdea5f1b89412c902ecdd7127b959dcd90005ba4e64c0335a2595d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03047",
+   "short": "Lei 3047/2022",
+   "title": "Lei nº 3.047, de 18 de abril de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/403",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/403/lei_no_3.047_de_18_de_abril_de_2022.pdf",
+     "sha256": "0a58314e849751880d016f5b03526b04ba8eea34386013cbbf9ced9de9f6f712"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03044",
+   "short": "Lei 3044/2022",
+   "title": "Lei nº 3.044, de 7 de abril de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/394",
+   "versions": [
+    {
+     "from": "2022-04-11",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/394/lei_no_3.044_de_07_de_abril_de_2022.pdf",
+     "sha256": "0467430cee6a2e58bc75534ee8d0cedfb1f6bbdeaeb677471ad2c1fd3a230943"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03043",
+   "short": "Lei 3043/2022",
+   "title": "Lei nº 3.043, de 4 de abril de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/397",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/397/lei_no_3.043_de_04_de_abril_de_2022.pdf",
+     "sha256": "d433f9df83450584b32a88702f3c89c12c41cdd9baaf661f45c94181870d3a36"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03042",
+   "short": "Lei 3042/2022",
+   "title": "Lei nº 3.042, de 28 de março de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/390",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/390/lei_no_3.042_de_28_de_marco_de_2022.pdf",
+     "sha256": "fd0d12f70efb15fed7bd8d802f8ca01f2e13e632aa9cf70e99632fb7dfa02cb7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03041",
+   "short": "Lei 3041/2022",
+   "title": "Lei nº 3.041, de 28 de março de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/388",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/388/lei_no_3.041_de_28_de_marco_de_2022.pdf",
+     "sha256": "8588ed4bda64dd80ed8fe339bac765f4811048cd54e00ac7e8575e12353c245f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03040",
+   "short": "Lei 3040/2022",
+   "title": "Lei nº 3.040, de 28 de março de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/387",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/387/lei_no_3.040_de_28_de_marco_de_2022.pdf",
+     "sha256": "eb90a130f4f3a9f2fcc3e6997ae013b8c676ec5511c95b9721dcbe2a5c7b4ee4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03039",
+   "short": "Lei 3039/2022",
+   "title": "Lei nº 3.039, de 28 de março de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/396",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/396/lei_no_3.039_de_28_de_marco_de_2022.pdf",
+     "sha256": "b1eb4d7bebe5f293f76a4f7c92e9bcabc4e18970b1dbbb61c8303eee46193e23"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03037",
+   "short": "Lei 3037/2022",
+   "title": "Lei nº 3.037, de 28 de março de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/386",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/386/lei_no_3.037_de_28_de_marco_de_2022.pdf",
+     "sha256": "2ead8a187e04df7d03cc688b42605513f4400c72fe911eb34160f1ec297c2c24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03036",
+   "short": "Lei 3036/2022",
+   "title": "Lei nº 3.036, de 28 de março de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/385",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/385/lei_no_3.036_de_28_de_marco_de_2022.pdf",
+     "sha256": "6ac29616e6aab192030447fa4504505c8038af025b1ff0f0ba663372d0e628a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03034",
+   "short": "Lei 3034/2022",
+   "title": "Lei nº 3.034, de 14 de março de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/384",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/384/lei_no_3.034_de_14_de_marco_de_2022.pdf",
+     "sha256": "7c0568765f6a2a2656017432c7a5fec75c298a63b508c85c49cf6f25bbf6b353"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03033",
+   "short": "Lei 3033/2022",
+   "title": "Lei nº 3.033, de 14 de março de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/383",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/383/lei_no_3.033_de_14_de_marco_de_2022.pdf",
+     "sha256": "a1a2455e3d974a837decc78289c184aa0fa513afb0c66f9304905e84f9370afe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03032",
+   "short": "Lei 3032/2022",
+   "title": "Lei nº 3.032, de 23 de fevereiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/381",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/381/lei_no_3.032_de_28_de_fevereiro_de_2022.pdf",
+     "sha256": "60b290468a1d5a8ecd275521a1c836aefc078a6168d703b30cd0277333d10286"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03031",
+   "short": "Lei 3031/2022",
+   "title": "Lei nº 3.031, de 23 de fevereiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/380",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/380/lei_no_3.031_de_23_de_fevereiro_de_2022.pdf",
+     "sha256": "27eaeaaa8a686f2f822dfd3c67d6706a4145f3a51ea761dfcc0619ea0cef6500"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03030",
+   "short": "Lei 3030/2022",
+   "title": "Lei nº 3.030, de 23 de fevereiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/379",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/379/lei_no_3.030_de_23_de_fevereiro_de_2022.pdf",
+     "sha256": "7be8f97ee5af5fd66730782c305ffaed769a9ad438a0d13a63aa7dd8e5916466"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03029",
+   "short": "Lei 3029/2022",
+   "title": "Lei nº 3.029, de 22 de fevereiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/378",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/378/lei_no_3.029_de_22_de_fevereiro_de_2022.pdf",
+     "sha256": "2ba27726e30c832babe7ef5a1cb6bf5d391ec6f59c48b9882eec747767e7e5dc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00174",
+   "short": "LC 174/2022",
+   "title": "Lei Complementar nº 174, de 21 de fevereiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/377",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/377/lei_complementar_no_174_de_21_de_fevereiro_de_2022.pdf",
+     "sha256": "27fc923cc338fffcb4356d6a3ba494fbb12b1407b35461e135dd57fbdfd27585"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03026",
+   "short": "Lei 3026/2022",
+   "title": "Lei nº 3.026, de 18 de fevereiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/374",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/374/lei_no_3.026_de_18_de_fevereiro_de_2022.pdf",
+     "sha256": "e9556013c0ca4c0ec31205de3755d8e2c4c7a16fbbcaa2b631fb2bbb9e2fa9b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03025",
+   "short": "Lei 3025/2022",
+   "title": "Lei nº 3.025, de 18 de fevereiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/373",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 8,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/373/lei_no_3.025_de_18_de_fevereiro_de_2022.pdf",
+     "sha256": "11106c8581cf8833bad3a7301a7fd34e51c0926b9f1d5cdeaccf00c4b3eb4eac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03024",
+   "short": "Lei 3024/2022",
+   "title": "Lei nº 3.024, de 18 de fevereiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/372",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/372/lei_no_3.024_de_18_de_fevereiro_de_2022.pdf",
+     "sha256": "0c52fbd5234396d0ad412f07bd03143c8ecaed535ea711063974972a98f546da"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00173",
+   "short": "LC 173/2022",
+   "title": "Lei Complementar nº 173, de 18 de fevereiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/371",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/371/lei_complementar_no_173_de_18_de_fevereiro_de_2022...pdf",
+     "sha256": "9b63042d543e3576476ba6bc087e0655430191e7fb8c818337a2802c79d22bc5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03023",
+   "short": "Lei 3023/2022",
+   "title": "Lei nº 3.023, de 17 de janeiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/355",
+   "versions": [
+    {
+     "from": "2022-02-04",
+     "units": 8,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/355/lei_no_3.023_de_17_de_janeiro_de_2022.pdf",
+     "sha256": "1e3e8833011a9828f05c224a61ff6bad8e30caf003b6d0752e0dd4d76c4e3be5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03022",
+   "short": "Lei 3022/2022",
+   "title": "Lei nº 3.022, de 10 de janeiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/365",
+   "versions": [
+    {
+     "from": "2022-01-12",
+     "units": 16,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/365/lei_no_3.022_de_10_de_janeiro_de_2022.pdf",
+     "sha256": "3518065e45bd617ef4a0684a6513bcf31e8d341091f8e729444b5fcd84ec029a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-03021",
+   "short": "Lei 3021/2022",
+   "title": "Lei nº 3.021, de 4 de janeiro de 2022",
+   "url": "https://sapl.caceres.mt.leg.br/norma/363",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2022/363/lei_no_3.021_de_04_de_janeiro_de_2022.pdf",
+     "sha256": "a7bc3ac0978af98be968db4f12c9e20086bf4850c9f90aba268c2d9e000f95a7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03019",
+   "short": "Lei 3019/2021",
+   "title": "Lei nº 3.019, de 29 de dezembro de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/364",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 5,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/364/lei_no_3.019_de_29_de_dezembro_de_2021.pdf",
+     "sha256": "7c73a5f713ce02596e7ab2f655d14c7c06be0141556bf69475b814f4871f8fc1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03018",
+   "short": "Lei 3018/2021",
+   "title": "Lei nº 3.018, de 27 de dezembro de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/417",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 12,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/417/lei_no_3.018_de_27_de_dezembro_de_2021.pdf",
+     "sha256": "98a182b6feda5fb7cfe279229f900bcfd22c33e977f8f426e4acc3dccf4f0921"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03015",
+   "short": "Lei 3015/2021",
+   "title": "Lei nº 3.015, de 23 de dezembro de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/400",
+   "versions": [
+    {
+     "from": "2022-12-24",
+     "units": 65,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/400/lei_no_3.015_de_23_de_dezembro_de_2021.pdf",
+     "sha256": "b09d5a47aaadc5709f4b43850959e43b5b5d300d16fbc3e6e7a8784deb867120"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-03013",
+   "short": "Lei 3013/2021",
+   "title": "Lei nº 3.013, de 16 de dezembro de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/361",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/361/lei_no_3.013_de_16_de_dezembro_de_2021.pdf",
+     "sha256": "20aa7beb038dc914f56df385ea215666ca2ee100358978ea80d145bd9bb8f607"
+    }
+   ]
   }
  ]
 }
