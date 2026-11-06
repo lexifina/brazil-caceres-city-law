@@ -4060,6 +4060,314 @@
      "sha256": "9d4f9294c1da4b4233eb60418ae55f9e00e5ac27f9d06d4e7c225bd3c7d7b5cd"
     }
    ]
+  },
+  {
+   "slug": "lc-2020-00152",
+   "short": "LC 152/2020",
+   "title": "Lei Complementar nº 152, de 15 de junho de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/16",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 9,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/16/lei_complementar_no_152_de_15_de_junho_de_2020.pdf",
+     "sha256": "885f57d59a79548e23c886c5411712b995828050dc59f9bef05e6e1b018045d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02868",
+   "short": "Lei 2868/2020",
+   "title": "Lei nº 2.868, de 19 de maio de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/94",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/94/lei_no_2.868_de_19_de_maio_de_2020.pdf",
+     "sha256": "aaec275cd3fb39c34ce82b59cb07c1f45c7817fb15cff557f2fb7d0b208ecffb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02866",
+   "short": "Lei 2866/2020",
+   "title": "Lei nº 2.866, de 19 de maio de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/92",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/92/lei_no_2.866_de_19_de_maio_de_2020.pdf",
+     "sha256": "fff74028d53973d5aacbb03ec1e692a8719de193550be6706720e2f1df297f1d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02864",
+   "short": "Lei 2864/2020",
+   "title": "Lei nº 2.864, de 13 de maio de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/97",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/97/lei_no_2.864_de_13_de_maio_de_2020.pdf",
+     "sha256": "671f4d8ac4fefefee89dee155c057d6546ed6dfb15f51cd6432745ccb1ec3912"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02861",
+   "short": "Lei 2861/2020",
+   "title": "Lei nº 2.861, de 5 de maio de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/89",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/89/lei_no_2.861_de_05_de_maio_de_2020.pdf",
+     "sha256": "1ddb827191951579ded1d5bc83f09004f5ecb410f6c6221d7866497e926050bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02860",
+   "short": "Lei 2860/2020",
+   "title": "Lei nº 2.860, de 24 de abril de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/88",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/88/lei_no_2.860_de_24_de_abril_de_2020.pdf",
+     "sha256": "7bf65a9a1e63f7225b8a85aa2492e970fdf363c239832ac7b96c567d16107f24"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02859",
+   "short": "Lei 2859/2020",
+   "title": "Lei nº 2.859, de 24 de abril de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/87",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/87/lei_no_2.859_de_24_de_abril_de_2020.pdf",
+     "sha256": "fc6320c97285ef65fb29f18367e4fcdc272f5ffad3e6a76eb24d6f0180702f16"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02858",
+   "short": "Lei 2858/2020",
+   "title": "Lei nº 2.858, de 15 de abril de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/86",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/86/lei_no_2.858_de_15_de_abril_de_2020.pdf",
+     "sha256": "abf54fb77a2ed3a9d351239776dca247d85d5a8865d72d3c645af57fdf93d674"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02857",
+   "short": "Lei 2857/2020",
+   "title": "Lei nº 2.857, de 15 de abril de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/85",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/85/lei_no_2.857_de_15_de_abril_de_2020.pdf",
+     "sha256": "299bfc9b1462b0787f2708e3c8a359a9bb78218bca68caf35511fb5850950d88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02856",
+   "short": "Lei 2856/2020",
+   "title": "Lei nº 2.856, de 15 de abril de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/84",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/84/lei_no_2.856_de_15_de_abril_de_2020.pdf",
+     "sha256": "5a894f4de9c806fc21933f54f0ed997727f170669eb5f4d122f228418f7186c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02855",
+   "short": "Lei 2855/2020",
+   "title": "Lei nº 2.855, de 15 de abril de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/83",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/83/lei_no_2.855_de_15_de_abril_de_2020.pdf",
+     "sha256": "5a894f4de9c806fc21933f54f0ed997727f170669eb5f4d122f228418f7186c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02854",
+   "short": "Lei 2854/2020",
+   "title": "Lei nº 2.854, de 15 de abril de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/82",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/82/lei_no_2.854_de_15_de_abril_de_2020.pdf",
+     "sha256": "9718e1c8721e22ba8f34873904dd0ce06b1050bc1b8ae597400b200056c9f73a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02850",
+   "short": "Lei 2850/2020",
+   "title": "Lei nº 2.850, de 7 de abril de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/78",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/78/lei_no_2.850_de_07_de_abril_de_2020.pdf",
+     "sha256": "4b645cc6e2c23a0baf663da7bffca02dcece18aab61e246f403fe614f5ca2a9a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02849",
+   "short": "Lei 2849/2020",
+   "title": "Lei nº 2.849, de 7 de abril de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/77",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/77/lei_no_2.849_de_07_de_abril_de_2020.pdf",
+     "sha256": "972cc13823a0a3bc0e305661143223f4be46090566308a08b8667df25de34715"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02848",
+   "short": "Lei 2848/2020",
+   "title": "Lei nº 2.848, de 31 de março de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/76",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/76/lei_no_2.848_de_31_de_marco_de_2020.pdf",
+     "sha256": "3e10b9d3ee61bd69dd8cefbaf9f4acd1d3ac92c6aebfb6752e82033b9cc51d5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02847",
+   "short": "Lei 2847/2020",
+   "title": "Lei nº 2.847, de 31 de março de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/75",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/75/lei_no_2.847_de_31_de_marco_de_2020.pdf",
+     "sha256": "e61ced949b8c7c95dc9a0dc9e7fc41f372c87bad657274713a71330b9053b505"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02844",
+   "short": "Lei 2844/2020",
+   "title": "Lei nº 2.844, de 30 de março de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/72",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/72/lei_no_2.844_de_30_de_marco_de_2020.pdf",
+     "sha256": "761ba63e17f3a7763933b7fd3c20c5310488d68199a4b8e7fd624c08cb05f8cc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02843",
+   "short": "Lei 2843/2020",
+   "title": "Lei nº 2.843, de 30 de março de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/71",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 7,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/71/lei_no_2.843_de_30_de_marco_de_2020.pdf",
+     "sha256": "b83347c96c339f9b90095d81f38bbafdb917f93275f17e5c651d60bb92b31860"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02842",
+   "short": "Lei 2842/2020",
+   "title": "Lei nº 2.842, de 18 de março de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/70",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/70/lei_no_2.842_de_18_de_marco_de_2020.pdf",
+     "sha256": "6a37ee81fecd6f23970e7935ea02e7e7968b4f01c058b9a8c16a8af11157e41a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-02841",
+   "short": "Lei 2841/2020",
+   "title": "Lei nº 2.841, de 18 de março de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/69",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/69/lei_no_2.841_de_18_de_marco_de_2020.pdf",
+     "sha256": "73d08b896a9f531b8220a5fc61d25775ee075e22d5ace174b08d9efac9426753"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00151",
+   "short": "LC 151/2020",
+   "title": "Lei Complementar nº 151, de 18 de março de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/67",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 39,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/67/lei_complementar_no_151_de_18_de_marco_de_2020.pdf",
+     "sha256": "4db45fd2ab9213d9a357531b6002e96fe0c5f426afd2725d43a82b0952b525be"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00149",
+   "short": "LC 149/2020",
+   "title": "Lei Complementar nº 149, de 15 de janeiro de 2020",
+   "url": "https://sapl.caceres.mt.leg.br/norma/65",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 10,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2020/65/lei_complementar_no_149_de_15_de_janeiro_de_2020.pdf",
+     "sha256": "735530ce8eaff07a6931ad9bafa0fb64ca6b9140f6aaf9d497a39b9010fb8baf"
+    }
+   ]
   }
  ]
 }
