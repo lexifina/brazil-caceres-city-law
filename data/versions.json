@@ -3542,6 +3542,342 @@
      "sha256": "92190c23a2bdd3b7c5ee324836257022577374bf76cb8bc205d28eb373c45049"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-02968",
+   "short": "Lei 2968/2021",
+   "title": "Lei nº 2.968, de 20 de julho de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/308",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 18,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/308/lei_no_2.968_de_20_de_julho_de_2021.pdf",
+     "sha256": "06fc21c4f0694e17c0e1899135abf64e4f7dd27e35f3f16d0716aab886ecbfdf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02967",
+   "short": "Lei 2967/2021",
+   "title": "Lei nº 2.967, de 9 de julho de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/310",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/310/lei_no_2.967_de_09_de_julho_de_2021.pdf",
+     "sha256": "085178b396d6ec500da2778d46cffb26fb04fab13d133bea53ca1cdee852c635"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02964",
+   "short": "Lei 2964/2021",
+   "title": "Lei nº 2.964, de 30 de junho de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/290",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/290/lei_no_2.964_de_30_de_junho_de_2021.pdf",
+     "sha256": "88cfe3bc98b8da9a359e26c88520e16ae90585fb90986e00debf685bfb010717"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02963",
+   "short": "Lei 2963/2021",
+   "title": "Lei nº 2.963, de 29 de junho de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/291",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/291/lei_no_2.963_de_29_de_junho_de_2021.pdf",
+     "sha256": "88cfe3bc98b8da9a359e26c88520e16ae90585fb90986e00debf685bfb010717"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02962",
+   "short": "Lei 2962/2021",
+   "title": "Lei nº 2.962, de 29 de junho de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/295",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/295/lei_no_2.962_de_29_de_junho_de_2021.pdf",
+     "sha256": "6edf55394b3b0f7c0997970699b76dbbcd7e9459971ca1e2eced8237e6e85a06"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02961",
+   "short": "Lei 2961/2021",
+   "title": "Lei nº 2.961, de 28 de junho de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/292",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/292/lei_no_2.961_de_28_de_junho_de_2021.pdf",
+     "sha256": "8240f5afe4032193af6b254c0d267b2e29753a333f2371d7c775ca74c3f93250"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02959",
+   "short": "Lei 2959/2021",
+   "title": "Lei nº 2.959, de 17 de junho de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/303",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/303/lei_no_2.959_de_17_de_junho_de_2021.pdf",
+     "sha256": "285b0058a51c639b0d78fa6ac39df8d7b3ea65df8d89ce584c496e3e08b69df7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02957",
+   "short": "Lei 2957/2021",
+   "title": "Lei nº 2.957, de 14 de junho de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/301",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/301/lei_no_2.957_de_14_de_junho_de_2021.pdf",
+     "sha256": "f53f30799b131213c0b935e63ea5bcd2c90a1651e3873b7551f46d1234d3cf3e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02956",
+   "short": "Lei 2956/2021",
+   "title": "Lei nº 2.956, de 7 de junho de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/324",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/324/lei_no_2.956_de_07_de_junho_de_2021.pdf",
+     "sha256": "b7835c4b137d50d4da9d52346821e525d3ae57be3fe918c71b2050dd4a2f9ec9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02953",
+   "short": "Lei 2953/2021",
+   "title": "Lei nº 2.953, de 25 de maio de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/298",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/298/lei_no_2.953_de_25_de_maio_de_2021.pdf",
+     "sha256": "f9892212a5d82dc3c8d801a023303a7ac4d130b4739af3faa0606dcd021b79c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02951",
+   "short": "Lei 2951/2021",
+   "title": "Lei nº 2.951, de 10 de maio de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/293",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/293/lei_no_2.951_de_10_de_maio_de_2021.pdf",
+     "sha256": "f12a540a27044aa2d28a23cfdd63c39262376640fa779c118e96749d8984728f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02950",
+   "short": "Lei 2950/2021",
+   "title": "Lei nº 2.950, de 7 de maio de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/296",
+   "versions": [
+    {
+     "from": "2021-05-17",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/296/lei_no_2.950_de_07_de_maio_de_2021.pdf",
+     "sha256": "e75e4fc8db891074a6e3b35dc7e1296569ad9326b14fe67df48221a6e66a97bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02949",
+   "short": "Lei 2949/2021",
+   "title": "Lei nº 2.949, de 4 de maio de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/216",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/216/lei_no_2.949_de_04_de_maio_de_2021.pdf",
+     "sha256": "29b69b4e0d4c04c0883db3c23e06287d94acb096d48182c1e61d8b6c7038f045"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02946",
+   "short": "Lei 2946/2021",
+   "title": "Lei nº 2.946, de 23 de abril de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/215",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/215/lei_no_2.946_de_23_de_abril_de_2021.pdf",
+     "sha256": "44b1495fee272c4f2f567c2a26d3d93d482f8e734c3c34790162bcd5d15ca0c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02945",
+   "short": "Lei 2945/2021",
+   "title": "Lei nº 2.945, de 12 de abril de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/218",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 4,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/218/lei_no_2.945_de_12_de_abril_de_2021.pdf",
+     "sha256": "843ed1d42fefeef159c441e0cf074a82f4bc72acb28260a977a4a09c4dbeaab0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02943",
+   "short": "Lei 2943/2021",
+   "title": "Lei nº 2.943, de 29 de março de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/205",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 20,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/205/lei_no_2.943_de_29_de_marco_de_2021.pdf",
+     "sha256": "d9db9f4bcaf856199ea6c792053ea85f30814908f0522992beae488bfea6cc45"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02935",
+   "short": "Lei 2935/2021",
+   "title": "Lei nº 2.935, de 24 de março de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/210",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/210/lei_no_2.935_de_24_de_marco_de_2021.pdf",
+     "sha256": "86b15618bb4cbfd6dcdabb23ede8ae5e461744e335d261c3ab4c2076442014df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02933",
+   "short": "Lei 2933/2021",
+   "title": "Lei nº 2.933, de 16 de março de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/198",
+   "versions": [
+    {
+     "from": "2021-03-17",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/198/lei_no_2.933_de_16_de_marco_de_2021.pdf",
+     "sha256": "1293f76668efa93e1f4ed5e8c7b9ad7afd557279f270a73a2d30f4769683860f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02929",
+   "short": "Lei 2929/2021",
+   "title": "Lei nº 2.929, de 12 de março de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/297",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/297/lei_no_2.929_de_12_de_marco_de_2021.pdf",
+     "sha256": "c7b858a96da9ad888279ced1009b5f40aaadd7c8cb8bae0cfad9ef6ea90c0e25"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02928",
+   "short": "Lei 2928/2021",
+   "title": "Lei nº 2.928, de 11 de março de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/294",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/294/lei_no_2.928_de_11_de_marco_de_2021.pdf",
+     "sha256": "a8736a2f28abb324ad3ca61eadfec7fbf3406f7283ff4a06f797d011f00ca2fb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02927",
+   "short": "Lei 2927/2021",
+   "title": "Lei nº 2.927, de 11 de março de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/213",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/213/lei_no_2.927_de_11_de_marco_de_2021.pdf",
+     "sha256": "ee780f625f781a26458267e041e8bbc43eb119656600bbb15e48f0f064137f1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02926",
+   "short": "Lei 2926/2021",
+   "title": "Lei nº 2.926, de 11 de março de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/197",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/197/lei_no_2.926_de_11_de_marco_de_2021.pdf",
+     "sha256": "6dcc45a320784eab03e2bb3baa07c0e62ac145394e3716332b476eb952b91a20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-02924",
+   "short": "Lei 2924/2021",
+   "title": "Lei nº 2.924, de 11 de março de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/191",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 6,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/191/lei_no_2.924_de_11_de_marco_de_2021.pdf",
+     "sha256": "5c7ee1a828f2acaeec1a41ba433926bf34cd3bc36adf789dcd22d02cdcd5125e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00158",
+   "short": "LC 158/2021",
+   "title": "Lei Complementar nº 158, de 11 de março de 2021",
+   "url": "https://sapl.caceres.mt.leg.br/norma/190",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 3,
+     "source_url": "https://sapl.caceres.mt.leg.br/media/sapl/public/normajuridica/2021/190/lei_complementar_no_158_de_11_de_marco_de_2021.pdf",
+     "sha256": "55d6be35adcf2d95abb5c913f531687ec6a2ef775838d391a05e32662067935a"
+    }
+   ]
   }
  ]
 }
